@@ -3,9 +3,9 @@ public class Student
 	public static void main(String[] args) 
 	{
 		A ob = new A(80f, 80f, 75f);
-		System.out.println("Student 1 Per: " +ob.getPercentage());
+		System.out.println("Student 1 Percentage: " +ob.getPercentage());
         	B obj = new B(80f , 85f , 70f , 705);
-		System.out.println("Student 2 Per: " +obj.getPercentage());
+		System.out.println("Student 2 Percentage: " +obj.getPercentage());
 	}   
 
 }
